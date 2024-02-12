@@ -8,9 +8,9 @@ const testTenTimes = () => {
       Math.floor(Math.random() * 10)
     );
     console.log(
-      `Initial Array: ${testArray}\nNo Duplicates: ${removeDuplicates(
+      `Initial Array: [${testArray}]\nNo Duplicates: [${removeDuplicates(
         testArray
-      )}\n`
+      )}]\n`
     );
   }
 };

@@ -1,0 +1,15 @@
+/home/jonathanpotter/repos/challenge/remove-duplicates/cSharp/bin/Debug/net8.0/cSharp
+/home/jonathanpotter/repos/challenge/remove-duplicates/cSharp/bin/Debug/net8.0/cSharp.deps.json
+/home/jonathanpotter/repos/challenge/remove-duplicates/cSharp/bin/Debug/net8.0/cSharp.runtimeconfig.json
+/home/jonathanpotter/repos/challenge/remove-duplicates/cSharp/bin/Debug/net8.0/cSharp.dll
+/home/jonathanpotter/repos/challenge/remove-duplicates/cSharp/bin/Debug/net8.0/cSharp.pdb
+/home/jonathanpotter/repos/challenge/remove-duplicates/cSharp/obj/Debug/net8.0/cSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/jonathanpotter/repos/challenge/remove-duplicates/cSharp/obj/Debug/net8.0/cSharp.AssemblyInfoInputs.cache
+/home/jonathanpotter/repos/challenge/remove-duplicates/cSharp/obj/Debug/net8.0/cSharp.AssemblyInfo.cs
+/home/jonathanpotter/repos/challenge/remove-duplicates/cSharp/obj/Debug/net8.0/cSharp.csproj.CoreCompileInputs.cache
+/home/jonathanpotter/repos/challenge/remove-duplicates/cSharp/obj/Debug/net8.0/cSharp.sourcelink.json
+/home/jonathanpotter/repos/challenge/remove-duplicates/cSharp/obj/Debug/net8.0/cSharp.dll
+/home/jonathanpotter/repos/challenge/remove-duplicates/cSharp/obj/Debug/net8.0/refint/cSharp.dll
+/home/jonathanpotter/repos/challenge/remove-duplicates/cSharp/obj/Debug/net8.0/cSharp.pdb
+/home/jonathanpotter/repos/challenge/remove-duplicates/cSharp/obj/Debug/net8.0/cSharp.genruntimeconfig.cache
+/home/jonathanpotter/repos/challenge/remove-duplicates/cSharp/obj/Debug/net8.0/ref/cSharp.dll
